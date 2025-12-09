@@ -1,0 +1,10 @@
+ --1. Which products generated the highest revenue, and what is their rank within their category or supplier?
+ --2. Who are the top 10 customers by lifetime value (LTV), and how much do they spend on average per transaction?
+ --3. What are the monthly sales trends, and what is the Month-over-Month growth %?
+ --4. Which stores (division → district → upazila) are the highest and lowest performing based on total revenue?
+ --5. What is the AOV (Average Order Value) per payment type and per bank, and which performs best?
+ --6. Which products are "fast-moving" vs "slow-moving"? (Based on quantity sold)
+ --7. At what time of the day (hour), day of week, and month does the company make the most sales?
+ --8. Which suppliers contribute the most to revenue? Compare them using percentage contribution.
+ --9. Which customers show repeat purchase behavior, and what is the average interval between their purchases?
+ --10. Identify the top 3 products in each store based on revenue.
